@@ -161,8 +161,7 @@ body{
  
     .products-preview .preview img{
       height: 25rem;
-    
-  }
+    }
 }
 @media (max-width:450px){
   html{
